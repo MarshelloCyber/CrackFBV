@@ -67,7 +67,7 @@ Jangan Di salah Gunakan Njinnggg
 	
 	$ git clone https://github.com/MarshelloCyber/CrackFBV
 	
-	$ cd Facebook
+	$ cd CrackFBV
 	
 	$ ruby main.rb
 
