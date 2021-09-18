@@ -69,7 +69,7 @@ Jangan Di salah Gunakan Njinnggg
 	
 	$ cd CrackFBV
 	
-	$ ruby main.rb
+	$ ruby marshelloCrack.rb
 
 
 
